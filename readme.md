@@ -1,4 +1,4 @@
-# 📘 Cluster Tool Usage Report  
+# 📘 Lab Infrastructure Usage Report  
 ### *Coating Competence Center – Usage Summary*  
 **Period Analyzed:** January 1, 2024 – January 15, 2025   
 ---
