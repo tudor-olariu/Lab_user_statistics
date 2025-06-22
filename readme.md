@@ -36,7 +36,7 @@ With over **3,000 hours** of logged operations and **462 individual processes**,
 
 ### 📆 Advance Booking Behavior
 
-![Advance Booking](Images/z_How_early_booked_days.tif)
+![Advance Booking](Images/z_How_early_booked_days.png)
 
 - **Most bookings are made 1 day in advance**, indicating fast-paced experimental workflows.
 - Negative values represent bookings done retroactively, after the starting time has passed, likely for spontaneous processes.
