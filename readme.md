@@ -26,6 +26,8 @@ With over **3,000 hours** of logged operations and **462 individual processes**,
 
 ## 🔬 2. What’s Available in CT
 
+![Advance Booking](Images/longest_standing.png)
+
 - **Longest-standing Target**: **Titanium (Ti)** in **Chamber 6**, in continuous use since installation.
 - **Target Material Requests**: Allowed on-demand, supporting flexible experimentation.
 - **Target Change Log**: Maintained and accessible.
