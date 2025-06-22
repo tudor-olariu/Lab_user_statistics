@@ -55,7 +55,7 @@ With over **3,000 hours** of logged operations and **462 individual processes**,
 
 ### ⚖️ Comparison Across Chambers
 
-![Chamber Comparison](Tudor_CT_usage_chamber_comparison.png)
+![Chamber Comparison](Images/Tudor_CT_usage_chamber_comparison.png)
 
 - **Chamber 2 & 6**: Favor faster, thinner processes.
 - **Chamber 4**: Longer, more complex operations.
@@ -64,7 +64,7 @@ With over **3,000 hours** of logged operations and **462 individual processes**,
 
 ## 👤 5. Who Uses CT?
 
-![User Distribution](Tudor_CT_usage_user_distribution.png)
+![User Distribution](Images/Tudor_CT_usage_user_distribution.png)
 
 - **External users represent a significant portion**.
 - Highlights importance of accessibility and documentation.
@@ -73,7 +73,7 @@ With over **3,000 hours** of logged operations and **462 individual processes**,
 
 ## 💡 6. User Needs Evolution
 
-![User Needs](Tudor_CT_usage_user_needs.png)
+![User Needs](Images/Tudor_CT_usage_user_needs.png)
 
 Information compiles from all messages, requests, questions etc. across all communication channels, into a word cloud, in order to identify
 the main user needs.
@@ -89,7 +89,7 @@ Users have questions about:
 
 ## ⚙️ 7. Downtime vs. Usage
 
-![Downtime vs Usage](Tudor_CT_usage_downtime.png)
+![Downtime vs Usage](Images/Tudor_CT_usage_downtime.png)
 
 - **No correlation between system usage and breakdowns**.
 - **Agile maintenance works** — CT is durable under pressure.
