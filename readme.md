@@ -1,19 +1,20 @@
 # 📘 Cluster Tool Usage Report  
-### *Tudor Coating Competence Center – Portfolio Summary*  
-**Period Analyzed:** January 1, 2024 – May 2025 (524 days)  
-**Prepared for:** Portfolio Presentation | R&D Lab Usage Analysis  
-
+### *Coating Competence Center – Usage Summary*  
+**Period Analyzed:** January 1, 2024 – January 15, 2025   
 ---
 
-## 🧭 Executive Summary
+## 🧭 Summary & context
 
-The **Cluster Tool (CT)** at Tudor's Coating Competence Center is a cornerstone for agile thin-film deposition and experimentation. With over **3,045 hours** of logged operations and **462 individual processes**, CT supports intensive internal and collaborative R&D, remaining highly reliable with minimal downtime.
+The **Cluster Tool (CT)** at the Coating Competence Center of EMPA is a cornerstone for agile thin-film deposition and experimentation. It is a cluster of three deposition chambers (Chamber 2, 4 and 6), each with different material targets installed, which users can use for sputtering, for a plethora of
+applications, including both internal and external projects in various industries.
+
+With over **3,000 hours** of logged operations and **462 individual processes**, CT supports intensive internal and collaborative R&D, remaining highly reliable with minimal downtime.
 
 ---
 
 ## 📊 1. Usage Overview
 
-![CT Usage Overview](Tudor_CT_usage_01.png)
+![CT Usage Overview](Images/Tudor_CT_usage_01.png)
 
 **Key Stats:**
 - **>88% Utilization** – Only ~1 free day every two weeks.
@@ -35,13 +36,14 @@ The **Cluster Tool (CT)** at Tudor's Coating Competence Center is a cornerstone 
 
 ### 📆 Advance Booking Behavior
 
-![Advance Booking](Tudor_CT_usage_advance_booking.png)
+![Advance Booking](Images/z_How_early_booked_days.tif)
 
 - **Most bookings are made 1 day in advance**, indicating fast-paced experimental workflows.
+- Negative values represent bookings done retroactively, after the starting time has passed, likely for spontaneous processes.
 
 ### ☀️ Time-of-Day Preferences
 
-![Time of Day](Tudor_CT_usage_daytime.png)
+![Time of Day](Images/Tudor_CT_usage_daytime.png)
 
 - **Afternoon and overnight runs are most common**.
 - Runs are **clustered near End-of-Day (EOD)**.
@@ -73,11 +75,15 @@ The **Cluster Tool (CT)** at Tudor's Coating Competence Center is a cornerstone 
 
 ![User Needs](Tudor_CT_usage_user_needs.png)
 
-Users evolve through stages:
-1. **Availability** – Are slots or materials open?
-2. **Knowledge** – Do they know how to run a process?
-3. **Ability** – Are they skilled/trained?
-4. **Urgency** – Is there a compelling driver (e.g., deadlines)?
+Information compiles from all messages, requests, questions etc. across all communication channels, into a word cloud, in order to identify
+the main user needs.
+
+Users have questions about:
+1. **Availability** – Access to infrastructure, availability in schedule
+2. **Knowledge** – Access to information
+3. **Ability** – Availability of immediate help
+4. **Urgency** – Is there a compelling driver (e.g. deadlines)?
+	- The vast majority of maintenances/interventions happen within a day of the issue being reported.
 
 ---
 
@@ -107,20 +113,4 @@ The Cluster Tool is:
 - **Highly utilized and agile** for rapid R&D.
 - **Reliably maintained** with no usage-linked downtime.
 - Ready for next steps: **automation, co-sputtering, and user system enhancements**.
-
----
-
-## 📎 Appendix: Graphical References
-
-1. CT Usage Overview (Daily Bookings)
-2. Booking Lead Times
-3. Time-of-Day Process Distribution
-4. Chamber 2/4/6 Comparison
-5. Downtime vs. Usage Correlation
-6. User Distribution Pie Chart
-7. User Needs Evolution Diagram
-
----
-
-*For full raw data or presentation slides, please refer to the original file: `Tudor_CT_usage_seminar.pptx`.*
 
